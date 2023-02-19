@@ -3,6 +3,9 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
+# Google
+googleAnalytics = "G-55VMBYCX92"
+
 [params]
   # dir name of your blog content (default is `content/post`)
   contentTypeName = "post"
@@ -12,7 +15,6 @@ paginate = 5
   showMenuItems = 4
   # Enable to show reading time in minutes for posts
   showReadingTime = true
-
 
 
 [languages]
